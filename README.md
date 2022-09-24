@@ -1,4 +1,4 @@
 # ExpensesTracker
-A React web application for tracking annual expenses
+This is a React web application for tracking annual expenses.
 
-Test
+An expense title, amount and date can be added dynamically to a list which can be filtered based on expense year
